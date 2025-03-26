@@ -4,7 +4,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-Este projeto é uma API desenvolvida utilizando **Java, Java Spring, Flyway Migrations, PostgreSQL como banco de dados e Spring Security com JWT para controle de autenticação.**
+Este projeto é uma API desenvolvida utilizando **Java, Spring Boot, Flyway Migrations, PostgreSQL como banco de dados e Spring Security com JWT para controle de autenticação.**
 
 ## Tabela de Conteúdos
 

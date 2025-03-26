@@ -66,4 +66,4 @@ O projeto utiliza [PostgreSQL](https://www.postgresql.org/) como banco de dados.
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma issue ou envie um pull request para o repositório.
 
-Ao contribuir para este projeto, siga o estilo de código existente, as [convenções de commit](https://www.conventionalcommits.org/en/v1.0.0/) e envie suas alterações em um branch separado.
+Ao contribuir para este projeto, siga o estilo de código existente, as [convenções de commit](https://www.conventionalcommits.org/pt-br/v1.0.0/ ) e envie suas alterações em um branch separado.

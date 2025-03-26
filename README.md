@@ -62,7 +62,7 @@ Para acessar endpoints protegidos como um usuário ADMIN, forneça as credenciai
 
 O projeto utiliza [PostgreSQL](https://www.postgresql.org/) como banco de dados. As migrações necessárias do banco são gerenciadas pelo Flyway.
 
-## Contribuição
+## Contribuição da comunidade JAVA
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra uma issue ou envie um pull request para o repositório.
 
